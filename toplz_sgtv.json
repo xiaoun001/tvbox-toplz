@@ -3,11 +3,10 @@
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[{"name":"自有","type":0,"url":"https://ghp.p3terx.com/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+"wallpaper":"https://wp.upx8.com/api.php",
 "sites":[
 {"key":"豆","name":"豆瓣","type": 3, "api": "csp_DouDouGuard","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"糯米","name":"时光影院","type":3,"api":"csp_NmyswvGuard","indexs":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"苹果","name":"苹果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Anime1","name":"日漫","type": 3,"api": "csp_Anime1Guard","searchable": 1,"quickSearch": 1,"changeable":1},
 {"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1}
 ],
