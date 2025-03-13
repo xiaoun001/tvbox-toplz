@@ -140,7 +140,8 @@
 			"api": "csp_XlysGuard",
 			"type": 3,
 			"playerType": 2
-		}
+		},
+		{"key":"cc","name":"时光影院3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
 	],
 	"parses": [{
 			"name": "Json聚合",
