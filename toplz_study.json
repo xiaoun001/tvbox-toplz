@@ -4,7 +4,7 @@
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🌈豆瓣",
+			"name": "Home",
 			"type": 3,
 			"api": "csp_DoubanGuard",
 			"searchable": 0
