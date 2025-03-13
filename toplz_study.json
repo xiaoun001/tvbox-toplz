@@ -244,52 +244,6 @@
 			"api": "csp_XlysGuard",
 			"type": 3,
 			"playerType": 2
-		},
-		{
-			"key": "csp_XiaoYi",
-			"name": "🔍小怡┃夸克",
-			"type": 3,
-			"changeable": "0",
-			"api": "csp_XiaoYiGuard",
-			"ext": ""
-		},
-		{
-			"key": "csp_MiSou",
-			"name": "🔍米搜┃夸克",
-			"type": 3,
-			"changeable": "0",
-			"api": "csp_MiSouGuard",
-			"ext": ""
-		},
-		{
-			"key": "Aid",
-			"name": "🚑有来┃急救",
-			"type": 3,
-			"api": "csp_FirstAidGuard",
-			"searchable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 3.8
-			}
-		},
-		{
-			"key": "csp_LaoBaiBook",
-			"name": "📚老白┃听书",
-			"type": 3,
-			"api": "csp_LaoBaiBookGuard",
-			"searchable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.333
-			}
-		},
-		{
-			"key": "push_agent",
-			"name": "🛴推送┃播放",
-			"type": 3,
-			"api": "csp_PushGuard",
-			"searchable": 0,
-			"ext": ""
 		}
 	],
 	"parses": [{
