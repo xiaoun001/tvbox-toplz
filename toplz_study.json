@@ -3,7 +3,7 @@
 	//"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 	"wallpaper": "https://wp.upx8.com/api.php",
 	"sites": [{
-			"key": "豆",
+			"key": "豆豆",
 			"name": "🌈豆瓣",
 			"type": 3,
 			"api": "csp_DoubanGuard",
@@ -74,21 +74,6 @@
 					"chunksize": 400,
 					"threads": 12
 				}
-			}
-		},
-		{
-			"key": "csp_Bili",
-			"name": "💯哔哩┃哔哩",
-			"type": 3,
-			"api": "csp_BiliGuard",
-			"searchable": 1,
-			"ext": {
-				"json": "https://drive.almondcloud.cn/f/odVjUB/bili.json",
-				"cookie": ""
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.333
 			}
 		},
 		{
