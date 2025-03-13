@@ -3,7 +3,7 @@
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 	"sites": [{
 			"key": "豆豆",
-			"name": "豆瓣",
+			"name": "🌈豆瓣┃接口已移交开源平台 请测试完删除处理",
 			"type": 3,
 			"api": "csp_DoubanGuard",
 			"searchable": 0
@@ -339,12 +339,18 @@
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
 		},
 		{
-			"name": "时光一线",
+			"name": "IPV6",
 			"type": 0,
-			"url": "https://gh-cuh.pages.dev/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.m3u",
+			"url": "https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
 			"playerType": 1,
-			"epg":"https://epg.v1.mk/json?ch={name}&date={date}"
-			"logo":"https://epg.v1.mk/logo/{name}.png",
+			"logo": "https://live.fanmingming.com/tv/{name}.png"
+		},
+		{
+			"name": "平台直播",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Live",
+			"ua": "okhttp/3.15",
+			"playerType": 2
 		}
 	],
 	"rules": [{
