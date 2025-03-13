@@ -345,14 +345,6 @@
 			"playerType": 1,
 			"epg":"https://epg.v1.mk/json?ch={name}&date={date}"
 			"logo":"https://epg.v1.mk/logo/{name}.png",
-		},
-		{
-			"name": "时光二线",
-			"type": 0,
-			"url": "https://ghp.p3terx.com/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.m3u",
-			"playerType": 1,
-			"epg":"https://epg.v1.mk/json?ch={name}&date={date}"
-			"logo":"https://epg.v1.mk/logo/{name}.png",
 		}
 	],
 	"rules": [{
