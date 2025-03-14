@@ -21,7 +21,7 @@
 {"name":"直播","type":0,"url":"https://gh-cuh.pages.dev/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.m3u","epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png","playerType":1},
 //{"name":"时光直播2","type":0,"url":"https://ghp.p3terx.com/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.m3u","epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png","playerType":1},
 //{"name":"时光直播3","type":0,"url":"https://gh-cuh.pages.dev/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.txt","epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
-//{"name":"时光直播2","type":0,"url":"https://ghp.p3terx.com/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.txt","epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}
+{"name":"时光直播2","type":0,"url":"https://ghp.p3terx.com/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.txt","epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}
 ],
 "wallpaper":"https://wp.upx8.com/api.php",
 "sites":[
