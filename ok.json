@@ -25,38 +25,6 @@
             }
         },
         {
-            "key": "玩偶弹幕版",
-            "name": "👽玩偶┃弹幕",
-            "type": 3,
-            "api": "csp_WoggGuard",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
-                "danmu": true
-            },
-            "timeout": 30
-        },
-        {
-            "key": "校长弹幕版",
-            "name": "💮小章┃弹幕",
-            "type": 3,
-            "api": "csp_XiaoZhangGuard",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
-                "danmu": true
-            },
-            "timeout": 30
-        },
-        {
             "key": "瓜子",
             "name": "🍉瓜子┃弹幕",
             "type": 3,
