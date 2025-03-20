@@ -23,7 +23,8 @@
 {"name":"IPTV3","type":0,"url":"https://gh-cuh.pages.dev/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.txt","epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"IPTV4","type":0,"url":"https://ghp.p3terx.com/raw.githubusercontent.com/xiaoun001/iptv-api/refs/heads/master/output/result.txt","epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}
 ],
-"wallpaper":"https://wp.upx8.com/api.php",
+//"wallpaper":"https://wp.upx8.com/api.php",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key":"豆","name":"主页","type": 3, "api": "csp_DouDouGuard","searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
